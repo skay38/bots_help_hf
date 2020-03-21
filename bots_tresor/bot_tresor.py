@@ -103,6 +103,7 @@ def cherche_tresor(driver):
 
 def tresors():
     driver=connexion()
+    time.sleep(2)
     while True:
         try:
             driver.find_element_by_xpath("/html/body/div[2]/table/tbody/tr/td[2]/div[2]/a[4]/div").click()
