@@ -1,0 +1,56 @@
+Viande
+Poisson
+Pain
+Fruit
+Légume
+Fromage
+Miel
+Lait
+Oeuf
+Epice
+Tonneau de bière
+Bouteille de vin
+Bouteille de cidre
+Bijoux
+Poterie
+Vêtement
+Bougie
+Livre
+Parfum
+Fourrure
+Bois
+Bois précieux
+Peau de bête
+Cuir
+Pierre
+Gemme
+Argile
+Fer
+Corde
+Fleur
+Foin
+Blé
+Farine
+Orge
+Lin
+Chanvre
+Teinture
+Potion de soin
+Plante médicinale
+Cire d’abeille
+Encre
+Perle noire
+Armure
+Arme
+Tunique
+Arc
+Arme de siège
+Navire de guerre
+Chèvre
+Vache
+Poule
+Chevaux
+Bateau de pêche
+Navire de fret
+Charrette
+Zeppelin
